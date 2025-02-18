@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Islamic Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #008080;
+            color: white;
+            padding: 15px;
+            font-size: 24px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #008080;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #ddd;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        ul li a {
+            text-decoration: none;
+            color: #008080;
+            font-weight: bold;
+        }
+        ul li a:hover {
+            color: #004d4d;
+        }
+    </style>
+</head>
+<body>
+
+<header>📖 ইসলামিক ওয়েবসাইট</header>
+
+<div class="container">
+    <h2>📜 কুরআন শরীফ</h2>
+    <ul>
+        <li><a href="https://quran.com/" target="_blank">অনলাইনে কুরআন পড়ুন</a></li>
+        <li><a href="https://www.islamicfinder.org/quran/" target="_blank">কুরআন শরীফ (তাফসীরসহ)</a></li>
+    </ul>
+
+    <h2>📖 হাদিস সংগ্রহ</h2>
+    <ul>
+        <li><a href="https://sunnah.com/" target="_blank">সাহিহ হাদিস পড়ুন</a></li>
+        <li><a href="https://hadithbd.com/" target="_blank">বাংলা হাদিস (অনুবাদসহ)</a></li>
+    </ul>
+
+    <h2>🔊 সুরা শুনুন</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=KtYkyB35zkk" target="_blank">সূরা ইয়াসিন শুনুন</a></li>
+        <li><a href="https://www.youtube.com/watch?v=IMAGXlX1zT8" target="_blank">সূরা রহমান শুনুন</a></li>
+    </ul>
+</div>
+
+</body>
+</html>
